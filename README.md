@@ -47,7 +47,9 @@ For 24 hours, the Windows and Linux machines were exposed to the public internet
 Incidents were triggered during these 24 hours through Sentinel. The incidents were observed, and the environment was hardened through the implementation of Azure-specific security recommendations.
 
 Additional security implementations include:
+
 [NIST SP 800-53 Revision 5](https://csrc.nist.gov/publications/detail/sp/800-53/rev-5/final) for Security Controls
+
 [NIST SP 800-61 Revision 2](https://www.nist.gov/privacy-framework/nist-sp-800-61) for Incident Handling Guidance
 ### **Post-remediation Analysis:**
 For 24 hours, the Windows and Linux machines ran once again after implementing Azure and NIST security controls.
